@@ -1,0 +1,8 @@
+../Core/Src/spl06-007.c:16:9:SPL06_007_Initialise	40	static
+../Core/Src/spl06-007.c:74:9:SPL06_007_calcCompPressure	16	static
+../Core/Src/spl06-007.c:78:9:SPL06_007_calcCompTemp	16	static
+../Core/Src/spl06-007.c:82:9:SPL06_007_getRawPressure	40	static
+../Core/Src/spl06-007.c:97:9:SPL06_007_getRawTemp	16	static
+../Core/Src/spl06-007.c:104:9:SPL06_007_getRegisterValue	32	static
+../Core/Src/spl06-007.c:112:19:SPL06_007_ReadRegister	48	static
+../Core/Src/spl06-007.c:118:19:SPL06_007_WriteRegister	48	static
